@@ -1,16 +1,22 @@
-# qr_reader
+### Hola, mi nombre es ISAAC PIMIENTA 👋.
 
-A new Flutter project.
+- Desarrollador de software
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<h2>Skills: </h2>
 
-A few resources to get you started if this is your first Flutter project:
+ <img  width="355px" src="skillicons.dev/icons?i=flutter,dart,c#" >
+ <img  width="175px" src="skillicons.dev/icons?i=git,angular,github,postman,unity" >
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/isaac-david-pimienta-morales-3187bb238/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Isaac Pimienta Morales" height="30" width="40" />linkedin</a>
+
+
+<a href="mailto:isaacpimienta358@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Isaac Pimienta Morales" height="30" width="40" />isaacpimienta358@gmail.com</a>
+</p>
+
+
+
